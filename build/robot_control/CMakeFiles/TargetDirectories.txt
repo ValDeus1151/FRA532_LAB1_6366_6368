@@ -1,0 +1,9 @@
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/uninstall.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/robot_control_uninstall.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/test.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/edit_cache.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/rebuild_cache.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/list_install_components.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/install.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/install/local.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/robot_control/CMakeFiles/install/strip.dir

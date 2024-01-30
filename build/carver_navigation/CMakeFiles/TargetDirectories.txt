@@ -1,0 +1,10 @@
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/uninstall.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/carver_navigation_uninstall.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/pub_odom.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/test.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/edit_cache.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/rebuild_cache.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/list_install_components.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/install.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/install/local.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation/CMakeFiles/install/strip.dir

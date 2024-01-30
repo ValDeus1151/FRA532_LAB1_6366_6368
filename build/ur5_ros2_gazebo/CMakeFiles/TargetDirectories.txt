@@ -1,0 +1,9 @@
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/uninstall.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/ur5_ros2_gazebo_uninstall.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/test.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/edit_cache.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/rebuild_cache.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/list_install_components.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/install.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/install/local.dir
+/home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo/CMakeFiles/install/strip.dir

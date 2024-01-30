@@ -1,0 +1,96 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found gazebo_ros_pkgs: 3.7.0 (/opt/ros/humble/share/gazebo_ros_pkgs/cmake)
+-- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation
+[ 50%] [32mBuilding CXX object CMakeFiles/pub_odom.dir/src/pub_odom.cpp.o[0m
+[100%] [32m[1mLinking CXX executable pub_odom[0m
+[100%] Built target pub_odom
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/lib/carver_navigation/pub_odom
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/config/diff_drive_controller.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/config/mapper_params_online_sync.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/config/navigation_param.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/robot_state_publisher.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_mapping.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_navigation.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_save_map.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_with_empty_world.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_with_sample_world.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap.pgm
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap1.pgm
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap1.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/lrf.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/main_body.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/megarover.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/r5.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/r5_lrf.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/vmega_body.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/vmega_wheel.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/lrf.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/megarover.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/vmega_body.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/vmega_wheel.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/robots/vmegarover.urdf.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/rviz/mapping.rviz
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/rviz/navigation.rviz
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/rviz/test.rviz
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/scripts/create_fix_urdf.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/body/body.gazebo.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/body/vbody.urdf.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/common.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/lrf/lrf.gazebo.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/lrf/lrf.urdf.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/wheel/vwheel.urdf.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/wheel/wheel.gazebo.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/worlds/vmegarover_sample.world
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/ament_index/resource_index/package_run_dependencies/carver_navigation
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/ament_index/resource_index/parent_prefix_path/carver_navigation
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/ament_prefix_path.sh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/ament_prefix_path.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/path.sh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/path.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.bash
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.sh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.zsh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/package.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/ament_index/resource_index/packages/carver_navigation
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/cmake/carver_navigationConfig.cmake
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/cmake/carver_navigationConfig-version.cmake
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/package.xml

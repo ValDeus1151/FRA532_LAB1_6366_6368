@@ -1,0 +1,229 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/duplicix/FRA532_LAB1_6366_6368/build/ur5_ros2_gazebo
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/config/default_kinematics.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/config/initial_positions.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/config/joint_limits.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/config/physical_parameters.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/config/ur5_controller.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/config/visual_parameters.yaml
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/launch/ur5_simulation.launch.py
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/urdf/inertial_macros.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/urdf/ur5.urdf.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/urdf/ur5_common.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/urdf/ur5_macro.urdf.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/urdf/ur5_ros2control.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/urdf/ur5_transmission.xacro
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/worlds/neo_track1.world
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/worlds/pal_office.world
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/worlds/ur5.world
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/Carver-Mun-M2-2.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/base.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/finger.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/finger_neutral.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/forearm.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/hand.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/mir_100_base.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/shoulder.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/upperarm.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/wrist1.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/wrist2.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/collision/wrist3.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/Carver-Mun-M2-2.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/base.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/d455.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/finger.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/finger_neutral.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/forearm.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/hand.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/mir_100_base.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/shoulder.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/upperarm.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/wrist1.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/wrist2.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/meshes/visual/wrist3.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tag.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags/materials/textures/MarkerData_2.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags/meshes/Ar_tag.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr11/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr11/materials/textures/MarkerData_11.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr11/meshes/Ar_tag_nr11.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr11/meshes/plate.blend
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr11/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr11/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr12/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr12/materials/textures/MarkerData_12.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr12/meshes/Ar_tag_nr12.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr12/meshes/plate.blend
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr12/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr12/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr13/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr13/materials/textures/MarkerData_13.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr13/meshes/Ar_tag_nr13.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr13/meshes/plate.blend
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr13/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr13/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/materials/textures/MarkerData_10.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/materials/textures/MarkerData_2.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/materials/textures/qrcode.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/materials/textures/qrcode1.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/meshes/Ar_tag.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/meshes/Ar_tag_nr2.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/meshes/plate.blend
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr2/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr8/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr8/materials/textures/MarkerData_8.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr8/meshes/Ar_tag_nr8.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr8/meshes/plate.blend
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr8/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr8/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/materials/scripts/ar_tag.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/materials/textures/MarkerData_10.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/materials/textures/MarkerData_2.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/materials/textures/MarkerData_9.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/materials/textures/qrcode.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/materials/textures/qrcode1.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/meshes/Ar_tag_nr2.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/meshes/Ar_tag_nr9.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/meshes/plate.blend
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/Ar_tags_nr9/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/construction_cone/materials/textures/Construction_Cone_Diffuse.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/construction_cone/meshes/construction_cone.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/construction_cone/model-1_3.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/construction_cone/model-1_4.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/construction_cone/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/construction_cone/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/materials/scripts/door_3d.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/materials/scripts/door_handle.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/materials/textures/door_3d.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/materials/textures/silver_door.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/meshes/d1.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/meshes/d1.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/meshes/d1_back1.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/docking_station/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door/materials/scripts/door.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door/materials/textures/door.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/materials/scripts/door_3d.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/materials/scripts/door_handle.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/materials/textures/door_3d.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/materials/textures/silver_door.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/meshes/door.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/meshes/door_v2.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/meshes/door_v2_door.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/meshes/door_v2_handle.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/meshes/model.dae
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/door_3d/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/drc_practice_straight/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/drc_practice_straight/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_ground_plane/materials/scripts/neobotix_ground_plane.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_ground_plane/materials/textures/MyImage.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_ground_plane/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_ground_plane/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_wall_stickers/materials/scripts/neobotix_ground_plane.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_wall_stickers/materials/textures/MyImage.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_wall_stickers/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/neobotix_wall_stickers/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env/materials/scripts/wall.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env/materials/textures/wall_color.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 1/materials/scripts/wall_white.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 1/materials/textures/wall_color_white.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 1/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 1/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 2/materials/scripts/wall_white.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 2/materials/textures/wall_color_white.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 2/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w 2/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w/materials/scripts/wall_white.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w/materials/textures/wall_color_white.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w_complete/materials/scripts/wall_white.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w_complete/materials/textures/wall_color_white.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w_complete/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_env_w_complete/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/scripts/Floor.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/scripts/wall_white.material
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cl1.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cl2.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cl3.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cl4.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cl5.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cl6.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp1.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp10.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp11.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp12.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp2.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp3.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp4.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp5.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp6.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp7.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp8.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/cp9.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd1.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd2.gif
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd3.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd4.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd5.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd6.png
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd7.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/hd8.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/materials/textures/wall_color_white.jpg
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/office_small/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/window/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/window/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/yellow_bin/meshes/green_cylinder.stl
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/yellow_bin/model.config
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/models/yellow_bin/model.sdf
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ament_index/resource_index/package_run_dependencies/ur5_ros2_gazebo
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ament_index/resource_index/parent_prefix_path/ur5_ros2_gazebo
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/environment/ament_prefix_path.sh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/environment/ament_prefix_path.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/environment/path.sh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/environment/path.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/local_setup.bash
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/local_setup.sh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/local_setup.zsh
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/local_setup.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/package.dsv
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ament_index/resource_index/packages/ur5_ros2_gazebo
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/cmake/ur5_ros2_gazeboConfig.cmake
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/cmake/ur5_ros2_gazeboConfig-version.cmake
+-- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/ur5_ros2_gazebo/share/ur5_ros2_gazebo/package.xml
