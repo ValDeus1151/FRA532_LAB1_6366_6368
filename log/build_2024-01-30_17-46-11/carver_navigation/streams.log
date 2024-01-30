@@ -1,0 +1,102 @@
+[0.217s] Invoking command in '/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/duplicix/FRA532_LAB1_6366_6368/src/carver_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation
+[0.271s] -- The C compiler identification is GNU 11.4.0
+[0.328s] -- The CXX compiler identification is GNU 11.4.0
+[0.335s] -- Detecting C compiler ABI info
+[0.402s] -- Detecting C compiler ABI info - done
+[0.409s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.410s] -- Detecting C compile features
+[0.410s] -- Detecting C compile features - done
+[0.413s] -- Detecting CXX compiler ABI info
+[0.494s] -- Detecting CXX compiler ABI info - done
+[0.502s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.502s] -- Detecting CXX compile features
+[0.503s] -- Detecting CXX compile features - done
+[0.506s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.684s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.751s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.783s] -- Found gazebo_ros_pkgs: 3.7.0 (/opt/ros/humble/share/gazebo_ros_pkgs/cmake)
+[0.784s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.823s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.829s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.839s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.855s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.887s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.173s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.266s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.273s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.274s] -- Configured cppcheck include dirs: 
+[1.274s] -- Configured cppcheck exclude dirs and/or files: 
+[1.280s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.280s] -- Configured cpplint exclude dirs and/or files: 
+[1.281s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.283s] -- Added test 'lint_cmake' to check CMake code style
+[1.284s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.291s] -- Added test 'uncrustify' to check C / C++ code style
+[1.291s] -- Configured uncrustify additional arguments: 
+[1.292s] -- Added test 'xmllint' to check XML markup files
+[1.294s] -- Configuring done
+[1.302s] -- Generating done
+[1.303s] -- Build files have been written to: /home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation
+[1.370s] Invoked command in '/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/duplicix/FRA532_LAB1_6366_6368/src/carver_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation
+[1.372s] Invoking command in '/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation -- -j12 -l12
+[1.417s] [ 50%] [32mBuilding CXX object CMakeFiles/pub_odom.dir/src/pub_odom.cpp.o[0m
+[1.446s] [100%] [32m[1mLinking CXX executable pub_odom[0m
+[1.494s] [100%] Built target pub_odom
+[1.504s] Invoked command in '/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation -- -j12 -l12
+[1.531s] Invoking command in '/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation
+[1.538s] -- Install configuration: ""
+[1.539s] -- Execute custom install script
+[1.539s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/lib/carver_navigation/pub_odom
+[1.548s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/config/diff_drive_controller.yaml
+[1.557s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/config/mapper_params_online_sync.yaml
+[1.566s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/config/navigation_param.yaml
+[1.575s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/robot_state_publisher.launch.py
+[1.584s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_mapping.launch.py
+[1.593s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_navigation.launch.py
+[1.602s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_save_map.launch.py
+[1.612s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_with_empty_world.launch.py
+[1.621s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/launch/vmegarover_with_sample_world.launch.py
+[1.632s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap.pgm
+[1.640s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap.yaml
+[1.649s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap1.pgm
+[1.658s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/maps/vmegarover_samplemap1.yaml
+[1.668s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/lrf.dae
+[1.677s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/main_body.dae
+[1.686s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/megarover.dae
+[1.695s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/r5.png
+[1.703s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/r5_lrf.png
+[1.713s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/vmega_body.dae
+[1.722s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/dae/vmega_wheel.dae
+[1.732s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/lrf.stl
+[1.740s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/megarover.stl
+[1.749s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/vmega_body.stl
+[1.758s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/models/vmegarover/meshes/stl/vmega_wheel.stl
+[1.766s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/robots/vmegarover.urdf.xacro
+[1.775s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/rviz/mapping.rviz
+[1.783s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/rviz/navigation.rviz
+[1.792s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/rviz/test.rviz
+[1.801s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/scripts/create_fix_urdf.py
+[1.810s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/body/body.gazebo.xacro
+[1.821s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/body/vbody.urdf.xacro
+[1.830s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/common.xacro
+[1.839s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/lrf/lrf.gazebo.xacro
+[1.847s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/lrf/lrf.urdf.xacro
+[1.856s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/wheel/vwheel.urdf.xacro
+[1.866s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/urdf/wheel/wheel.gazebo.xacro
+[1.875s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/worlds/vmegarover_sample.world
+[1.885s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/ament_index/resource_index/package_run_dependencies/carver_navigation
+[1.894s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/ament_index/resource_index/parent_prefix_path/carver_navigation
+[1.903s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/ament_prefix_path.sh
+[1.912s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/ament_prefix_path.dsv
+[1.924s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/path.sh
+[1.933s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/environment/path.dsv
+[1.941s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.bash
+[1.949s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.sh
+[1.958s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.zsh
+[1.966s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/local_setup.dsv
+[1.975s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/package.dsv
+[1.985s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/ament_index/resource_index/packages/carver_navigation
+[1.994s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/cmake/carver_navigationConfig.cmake
+[2.004s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/cmake/carver_navigationConfig-version.cmake
+[2.013s] -- Symlinking: /home/duplicix/FRA532_LAB1_6366_6368/install/carver_navigation/share/carver_navigation/package.xml
+[2.026s] Invoked command in '/home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/duplicix/FRA532_LAB1_6366_6368/build/carver_navigation
