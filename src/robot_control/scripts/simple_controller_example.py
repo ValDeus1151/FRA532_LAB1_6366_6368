@@ -33,6 +33,7 @@ class Controller(Node):
     def pose_callback(self, msg):
         # Update the robot's current pose
         self.pose = msg
+        
         pass
 
     # Method to calculate the control commands
